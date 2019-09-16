@@ -18,6 +18,7 @@ fields:
   name: image
   label: image
 pages:
+- _posts/2018-01-12-never-stopped-worrying-never-loved-bomb.md
 - _posts/2018-01-11-quick-start-guide.md
 - _posts/2018-01-11-customer-service.md
 - _posts/2018-06-12-education.md
