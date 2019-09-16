@@ -18,5 +18,6 @@ fields:
   name: image
   label: image
 pages:
+- _posts/2018-01-12-tree-of-codes.md
 - _posts/2018-01-12-we-all-wait-for-summer.md
 - _posts/2018-06-12-acumulated-experience.md
