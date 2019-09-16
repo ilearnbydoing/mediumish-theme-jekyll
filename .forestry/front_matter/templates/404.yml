@@ -1,0 +1,13 @@
+---
+label: '404'
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: number
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
