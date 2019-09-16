@@ -17,3 +17,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/2018-06-12-acumulated-experience.md
