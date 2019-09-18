@@ -1,0 +1,16 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - bundle install
+    build:
+      commands:
+        - bundle exec jekyll b
+        # - if [ "${AWS_BRANCH}" = "master" ]; then bundle exec jekyll b --baseurl /; else bundle exec jekyll b --baseurl / --future; fi
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
